@@ -1,7 +1,7 @@
 # FinalProject
   Assessing what box score statistics make up the advanced statistic, BPM in the NBA 
 
-#Created by Eli Buto, Brenden Slomka, Eli Miller, and Daniel Wiederhorn of Syracuse University
+##Created by Eli Buto, Brenden Slomka, Eli Miller, and Daniel Wiederhorn of Syracuse University
 
 `Final Project Code.ipynb`
 Included code to model BPM using various box score statistics. Also includes code to visualize the model and variables used in the model.
